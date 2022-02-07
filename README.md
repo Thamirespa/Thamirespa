@@ -1,6 +1,7 @@
 ### Olá, eu sou a Thami!!!
 
 🌱 Estudante de Java, MySQL, Spring Boot na Generation Brasil
+
 😄 Pronomes: ela/dela 
 
 <div align="center">
