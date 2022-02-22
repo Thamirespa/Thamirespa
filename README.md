@@ -1,6 +1,6 @@
-### Olá, eu sou a Thami!!!
+### Olá, eu sou a Thami! 
 
-Estudante de Java, MySQL, Spring Boot na Generation Brasil
+Estudante de Java, MySQL, Spring Boot e Angular na Generation Brasil!
 
 
 <div align="center">
